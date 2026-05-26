@@ -1,2 +1,2 @@
 # justb.techwalaa
-This is mt first Git Repository
+This is my first Git Repository
